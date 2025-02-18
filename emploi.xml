@@ -5,12 +5,10 @@
         <ville>Paris</ville>
         <description>
             <taches>
-                <tache>Création de site web</tache>
                 <tache>Création de site e-commerce</tache>
                 <tache>Le Code Review avec les autres développeurs du projet</tache>
             </taches>
             <avantages>
-                <avantage>CDI</avantage>
                 <avantage>Flexibilité dans l'organisation du travail (accord de télétravail)</avantage>
                 <avantage>Accord d'intéressement.</avantage>
                 <avantage>Ticket Restaurant : 11.67EUR (prise en charge employeur à 60%),</avantage>
@@ -24,7 +22,7 @@
         </competences>
         <dateDeDebut>2025-09-23</dateDeDebut>
         <salaireAnnuel>68000 €</salaireAnnuel>
-        <adresseContact>php@paris.com</adresseContact>
+        <adresseContact>ramenetesfesses.php@paris.com</adresseContact>
     </offre>
     <offre id="2">
         <intitule>Développeur JAVA</intitule>
@@ -33,7 +31,6 @@
             <taches>
                 <tache>Création de site web</tache>
                 <tache>Création de site e-commerce</tache>
-                <tache>Le Code Review avec les autres développeurs du projet</tache>
             </taches>
             <avantages>
                 <avantage>CDI</avantage>
@@ -50,7 +47,7 @@
         </competences>
         <dateDeDebut>2025-09-23</dateDeDebut>
         <salaireAnnuel>68000 €</salaireAnnuel>
-        <adresseContact>php@paris.com</adresseContact>
+        <adresseContact>ramenetafraise.java@paris.com</adresseContact>
     </offre>
     <offre id="3">
         <intitule>Développeur NODEjs</intitule>
@@ -76,7 +73,7 @@
         </competences>
         <dateDeDebut>2025-09-23</dateDeDebut>
         <salaireAnnuel>68000 €</salaireAnnuel>
-        <adresseContact>php@paris.com</adresseContact>
+        <adresseContact>ramenetatete.node.js@paris.com</adresseContact>
     </offre>
     
 </offresEmploi>
