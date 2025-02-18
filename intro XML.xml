@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stagiaires>
+    <Stagiaire id="1">
+
+        <nom>BIEHLER</nom>
+        <prenom>Caroline</prenom>
+        <dateNaissance>2000-09-16</dateNaissance>
+        <section>ABC dev</section>
+
+    </Stagiaire>
+    <Stagiaire id="2">
+
+        <nom>GODBILLOT</nom>
+        <prenom>Bruno</prenom>
+        <dateNaissance>2000-09-16</dateNaissance>
+        <section>ABC dev</section>
+
+    </Stagiaire>
+    <Stagiaire id="3">
+
+        <nom>HUMERY</nom>
+        <prenom>Ludovic</prenom>
+        <dateNaissance>1982-08-08</dateNaissance>
+        <section>ABC dev</section>
+
+    </Stagiaire>
+    <Stagiaire id="4">
+
+        <nom>CETIN</nom>
+        <prenom>Hulya</prenom>
+        <dateNaissance>1986-01-19</dateNaissance>
+        <section>ABC dev</section>
+
+    </Stagiaire>
+    <Stagiaire id="5">
+
+        <nom>GEHIN</nom>
+        <prenom>Fréderic</prenom>
+        <dateNaissance>1968-08-04</dateNaissance>
+        <section>ABC dev</section>
+
+    </Stagiaire>
+
+    
+
+</Stagiaires>

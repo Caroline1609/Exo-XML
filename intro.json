@@ -1,0 +1,41 @@
+{
+    "Stagiaire":[
+
+{
+"nom":"BIEHLER",
+"prenom":"Caroline",
+"DateNaissance" : "2000-09-16",
+"secton" : "ABC dev"
+},
+
+{
+"nom":"GODBILLOT",
+"prenom":"Bruno",
+"DateNaissance" : "1984-09-26",
+"secton" : "ABC dev"
+},
+
+{
+"nom":"HUMERY",
+"prenom":"Ludovic",
+"DateNaissance" : "1982-08-08",
+"secton" : "ABC dev"
+},
+
+{
+"nom":"CETIN",
+"prenom":"Hulya",
+"DateNaissance" : "1986-01-19",
+"secton" : "ABC dev"
+},
+
+
+{
+"nom":"GEHIN",
+"prenom":"Fréderic",
+"DateNaissance" : "1968-08-04",
+"secton" : "ABC dev"
+}
+
+
+]}

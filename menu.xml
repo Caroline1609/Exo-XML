@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Carte>
+    <entree id = "entree">
+        <menu>
+        <nom>Velouté de petits pois</nom>
+        <prix>35€</prix>
+        <description>Les petits pois, autrement.</description>
+        </menu>
+
+        <menu>
+        <nom>salade tomate</nom>
+        <prix>35€</prix>
+        <description>Un grand classique de l'été qui marche tout le temps, avec tout le monde : la salade de tomates ! Très rafraîchissante, très savoureuse, et excellente pour la santé, cette salade d'été est tout simplement parfaite. Voilà une recette facile et rapide, qui régalera la tablée des petits et des grands. Des tomates bien mûres et bien juteuses, avec de l'oignon, de la ciboulette, de la coriandre, et un bon assaisonnement. Une explosion de fraîcheur et de saveurs à tester très vite ! Vous serez ravis !</description>
+        </menu>
+
+    </entree>
+    <plat>
+        <menu>
+            <nom>Spaghetti bolognaise</nom>
+            <prix>15€</prix>
+            <description>Les spaghetti bolognaise, ou spaghetti à la bolognaise, sont très appréciés à travers le monde. On prend le temps de savourer ces longues pâtes qu’on tourne autour de la fourchette, en les mélangeant à une sauce à base de viande et de tomate appelée ragù alla bolognese.</description>
+        </menu>
+        <menu>
+            <nom>Spaghetti carbonnara</nom>
+            <prix>15€</prix>
+            <description> Les pâtes à la carbonara (en italien : pasta alla carbonara) sont une spécialité culinaire à base de pâtes, très souvent des spaghetti, imbibés d'une émulsion d'un peu d'eau de cuisson des pâtes avec du pecorino râpé et des jaunes d'oeufs, servis ensuite avec du poivre noir et du guanciale (charcuterie provenant de la joue du porc), taillé en petits morceaux.</description>
+        </menu>
+        <menu>
+            <nom>Spaghetti Pesto</nom>
+            <prix>15€</prix>
+            <description> Les pâtes au pesto sont un classique de la cuisine italienne qui séduit par son authenticité et sa simplicité. Originaire de Ligurie, cette sauce combinant basilic frais, pignons de pin, ail, parmesan et huile d’olive ravit les papilles depuis des siècles.</description>
+        </menu>
+    </plat>
+    <dessert>
+        <menu>
+            <nom>Panna Cotta</nom>
+            <prix>15€</prix>
+            <description> tout d’abord, cette douceur légère, crémeuse, typique de l’Italie, se décline sous toutes les saveurs. En effet, cette crème cuite, à base de crème, de lait, de sucre et de gélatine, fond en bouche comme une petite bouchée de bonheur. Là où la Panna Cotta obtient ses lettres de noblesses, c’est dans sa versatilité. Elle peut être aussi bien servie avec du chocolat ou du caramel qu’avec un coulis de fruits. Pour l’été, pensez à la servir accompagnée de fraises, de framboises et de myrtilles, ou pourquoi pas sur un lit de kiwi, d’ananas, ou d’autres fruits aux saveurs exotiques?</description>
+        </menu>
+        <menu>
+            <nom>Le Zuccotto</nom>
+            <prix>15€</prix>
+            <description> Connaissez-vous cet appétissant et rafraîchissant dessert glacé? En forme de dôme, cet étonnant «gâteau» dont la base et toute la surface sont constitués de génoise, est rempli d’une sorte de bombe glacée. Encore une fois, toutes les saveurs existent, du chocolat à la pistache, de la vanille aux fruits rouges. Quelle que soit l’ingrédient choisi, le Zuccotto, de par sa nature glacée, conviendra parfaitement à vos desserts d’été</description>
+        </menu>
+    
+    </dessert>
+
+
+
+</Carte>
