@@ -1,1 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<offresEmploi>
+    <offre id="1">
+        <intitule>Développeur PHP</intitule>
+        <ville>Paris</ville>
+        <description>
+            <taches>
+                <tache>Création de site web</tache>
+                <tache>Création de site e-commerce</tache>
+                <tache>Le Code Review avec les autres développeurs du projet</tache>
+            </taches>
+            <avantages>
+                <avantage>CDI</avantage>
+                <avantage>Flexibilité dans l'organisation du travail (accord de télétravail)</avantage>
+                <avantage>Accord d'intéressement.</avantage>
+                <avantage>Ticket Restaurant : 11.67EUR (prise en charge employeur à 60%),</avantage>
+            </avantages>
+            <profilRecherche>Compétent</profilRecherche>
+        </description>
+        <competences>
+            <competences>PHP</competences>
+            <competences>MySQL</competences>
+            <competences>Symfony</competences>
+        </competences>
+        <dateDeDebut>2025-09-23</dateDeDebut>
+        <salaireAnnuel>68000 €</salaireAnnuel>
+        <adresseContact>php@paris.com</adresseContact>
+    </offre>
+    <offre id="2">
+        <intitule>Développeur JAVA</intitule>
+        <ville>Mulhouse</ville>
+        <description>
+            <taches>
+                <tache>Création de site web</tache>
+                <tache>Création de site e-commerce</tache>
+                <tache>Le Code Review avec les autres développeurs du projet</tache>
+            </taches>
+            <avantages>
+                <avantage>CDI</avantage>
+                <avantage>Flexibilité dans l'organisation du travail (accord de télétravail)</avantage>
+                <avantage>Accord d'intéressement.</avantage>
+                <avantage>Ticket Restaurant : 11.67EUR (prise en charge employeur à 60%),</avantage>
+            </avantages>
+            <profilRecherche>Compétent</profilRecherche>
+        </description>
+        <competences>
+            <competences>PHP</competences>
+            <competences>MySQL</competences>
+            <competences>Symfony</competences>
+        </competences>
+        <dateDeDebut>2025-09-23</dateDeDebut>
+        <salaireAnnuel>68000 €</salaireAnnuel>
+        <adresseContact>php@paris.com</adresseContact>
+    </offre>
+    <offre id="3">
+        <intitule>Développeur NODEjs</intitule>
+        <ville>Toulouse</ville>
+        <description>
+            <taches>
+                <tache>Création de site web</tache>
+                <tache>Création de site e-commerce</tache>
+                <tache>Le Code Review avec les autres développeurs du projet</tache>
+            </taches>
+            <avantages>
+                <avantage>CDI</avantage>
+                <avantage>Flexibilité dans l'organisation du travail (accord de télétravail)</avantage>
+                <avantage>Accord d'intéressement.</avantage>
+                <avantage>Ticket Restaurant : 11.67EUR (prise en charge employeur à 60%),</avantage>
+            </avantages>
+            <profilRecherche>Compétent</profilRecherche>
+        </description>
+        <competences>
+            <competences>PHP</competences>
+            <competences>MySQL</competences>
+            <competences>Symfony</competences>
+        </competences>
+        <dateDeDebut>2025-09-23</dateDeDebut>
+        <salaireAnnuel>68000 €</salaireAnnuel>
+        <adresseContact>php@paris.com</adresseContact>
+    </offre>
+    
+</offresEmploi>
