@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fiche>
+    <formation>
+        <nom>gmail DEV</nom>
+        <duree>5 mois</duree>
+        <dateDebut>2024-09-23</dateDebut>
+        <dateFin>2025-02-23</dateFin>
+    </formation>
+    <apprenant>
+        <eleve id="1">
+            <nom>vfgb</nom>
+            <prenom>Cardfvdfoline</prenom>
+            <datenaissance>1998-01-01</datenaissance>
+            <adresseEmail>fvfvdf@gmail.com</adresseEmail>
+        </eleve>
+        <eleve id="2">
+            <nom>fdvd</nom>
+            <prenom>fddf</prenom>
+            <datenaissance>1998-01-01</datenaissance>
+            <adresseEmail>fvfd@gmail.com</adresseEmail>
+        </eleve>
+        <eleve id="3">
+            <nom>Tete</nom>
+            <prenom>Tete</prenom>
+            <datenaissance>1998-01-01</datenaissance>
+            <adresseEmail>tete@gmail.com</adresseEmail>
+        </eleve>
+    </apprenant>
+</fiche>
