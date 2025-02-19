@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legumes>
+    <legume>
+        <nom>concombre</nom>
+        <prix>0.42 € l'unité</prix>
+    </legume>
+    <legume>
+        <nom>Tomate</nom>
+        <prix>2.5</prix>
+    </legume>
+    <legume>
+        <nom>brocoli</nom>
+        <prix>5.00€ les 500g</prix>
+    </legume>
+    <legume>
+        <nom>navet</nom>
+        <prix>1€ l'unité</prix>
+    </legume>
+    <legume>
+        <nom>Radis</nom>
+        <prix>1.2€ l'unité</prix>
+    </legume>
+    <legume>
+        <nom>salade</nom>
+        <prix>1.8 € l'unité</prix>
+    </legume>
+</legumes>

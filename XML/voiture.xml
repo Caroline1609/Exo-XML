@@ -1,0 +1,35 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<voitures>
+    <voiture id="1">
+        <marque>Peugeot</marque>
+        <modele>208</modele>
+        <annee>2020</annee>
+        <moteur>
+            <type>Essence</type>
+        </moteur>
+    </voiture>
+    <voiture id="2">
+        <marque>Renault</marque>
+        <modele>Clio</modele>
+        <annee>2021</annee>
+        <moteur>
+            <type>Essence</type>
+        </moteur>
+    </voiture>
+    <voiture id="3">
+        <marque>Toyota</marque>
+        <modele>ASV70R</modele>
+        <annee>2021</annee>
+        <moteur>
+            <type>Essence</type>
+        </moteur>
+    </voiture>
+    <voiture id="4">
+        <marque>Renault</marque>
+        <modele>Capture</modele>
+        <annee>2021</annee>
+        <moteur>
+            <type>Essence</type>
+        </moteur>
+    </voiture>
+</voitures>

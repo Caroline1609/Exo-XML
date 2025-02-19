@@ -1,0 +1,27 @@
+{
+"passagers": [
+        {
+            "prenom": " Jean",
+            "nom": "barque",
+            "adresse_depart": "porte jeune, Mulhouse",
+            "destination": "Allemangne, mulheim",
+            "plaque immatriculation" : "GF5024SFS4"
+        },
+        {
+            "prenom": "Thomas",
+            "nom": "Toketchup",
+            "adresse_depart": "new-york",
+            "destination": "Etats-Unis",
+            "plaque immatriculation" : "GH8525DGD"
+        },
+        {
+            "prenom": " Paul ",
+            "nom": "Ochon",
+            "adresse_depart": "océan Atlantique",
+            "destination": "Danemark",
+            "plaque immatriculation" : "74DFGBFGF5"
+        }
+        
+
+    ]
+}

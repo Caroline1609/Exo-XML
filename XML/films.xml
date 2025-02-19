@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+    <film id="1">
+        <titre>Charlie et la Chocolaterie</titre>
+        <realisateur>Tim Burton</realisateur>
+        <annee>2025</annee>
+        <genre>Action</genre>
+        <genre>comedie</genre>
+        <duree>115 minutes</duree>
+        <pays>USA</pays>
+        <acteurs>
+            <acteur>Johnny Depp</acteur>
+            <acteur>Freddie Highmore</acteur>
+            <acteur>David Kelly</acteur>
+            <acteur>AnnaSophia Robb</acteur>
+            <acteur>Deep Roy</acteur>
+        </acteurs>
+        <synopsis>
+            Charlie Bucket est un petit garçon vivant avec ses parents et ses quatre grands-parents dans une frêle maison en bois, non loin d'une immense chocolaterie dirigée par Willy Wonka, auquel la famille voue une profonde admiration. Il y a fort longtemps, Wonka a pris la décision de fermer à jamais la chocolaterie à tout visiteur à la suite de nombreuses actions d'espionnage aux fins de lui voler ses recettes, ce qui l'a également amené à licencier tous ses employés, dont Joe, le grand-père de Charlie. Un jour d'hiver, Willy Wonka annonce qu'il organise un grand concours : il a placé dans cinq tablettes de chocolat, distribuées à travers le monde, cinq tickets d'or. Ceux qui les trouveront gagneront alors une visite guidée de la chocolaterie ainsi qu'un approvisionnement de chocolat à vie, et un des cinq gagnants se verra offrir un cadeau spécial à la fin de la visite.
+        </synopsis>
+        <projection>
+            <projection>
+                <salle>1</salle>
+                <date>2005-10-18</date>
+                <heure>12:00:00</heure>
+            </projection>
+            <projection>
+                <salle>6</salle>
+                <date>2005-02-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+            <projection>
+                <salle>14</salle>
+                <date>2005-09-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+        </projection>
+    </film>
+    <film id="2">
+        <titre>Terrifier 3 </titre>
+        <realisateur>Damien Leone</realisateur>
+        <annee>2024</annee>
+        <genre>horreur</genre>
+        <duree>125</duree>
+        <pays>Us</pays>
+        <acteurs>
+            <acteur>Lauren LaVera</acteur>
+            <acteur>David Howard Thornton</acteur>
+            <acteur>Chris Jericho</acteur>
+            <acteur>Elliot Fullam</acteur>
+        </acteurs>
+        <synopsis>
+           À l’heure actuelle, Art le Clown entre par la cheminée d'une maison et assassine brutalement une famille, les Thomas, le soir de Noël. Cinq ans plus tôt, après avoir été décapité par Sienna Shaw, le corps sans tête d’Art se dirige vers l’asile où la survivante, Victoria Heyes, maintenant possédée par l'esprit de la Petite Fille Pâle, vient de donner naissance à sa tête. Ils y tuent une infirmière et un gardien de sécurité avant de s’enfuir et de se reclure dans une maison abandonnée. Victoria se fracasse le visage contre le miroir d’une salle de bain et utilise un éclat de verre pour se suicider dans une baignoire en se taillant les veines des poignets, et Art est assis sur un rocking-chair dans le grenier. Les deux finissent par entrer en hibernation. </synopsis>
+        <projection>
+            <projection>
+                <salle>4</salle>
+                <date>2024-02-18</date>
+                <heure>10:00:00</heure>
+            </projection>
+            <projection>
+                <salle>1</salle>
+                <date>2024-02-18</date>
+                <heure>13:00:00</heure>
+            </projection>
+            <projection>
+                <salle>6</salle>
+                <date>2024-02-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+        </projection>
+    </film>
+    <film id="3">
+        <titre>The Fall Guy </titre>
+        <realisateur>David Leitch</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <genre>Comedie</genre>
+        <duree>125</duree>
+        <pays>Us</pays>
+        <acteurs>
+            <acteur>Ryan Gosling</acteur>
+            <acteur>Emily Blunt</acteur>
+            <acteur>Aaron Taylor-Johnson</acteur>
+            <acteur>Winston Duke</acteur>
+        </acteurs>
+        <synopsis>
+           Colt Seavers, un cascadeur hollywoodien, travaille comme doublure cascade de la star de films d'action Tom Ryder. Il a pour petite-amie la cadreuse Jody Moreno. Réalisant une cascade, il est grièvement blessé lors d'une chute en hauteur. Touché au dos, il abandonne sa carrière et sa petite amie pour devenir voiturier dans un petit restaurant mexicain, El Cacatua del Capitan.</synopsis>
+        <projection>
+            <projection>
+                <salle>4</salle>
+                <date>2024-02-18</date>
+                <heure>10:00:00</heure>
+            </projection>
+            <projection>
+                <salle>1</salle>
+                <date>2024-02-18</date>
+                <heure>13:00:00</heure>
+            </projection>
+            <projection>
+                <salle>6</salle>
+                <date>2024-02-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+        </projection>
+    </film>
+    <film id="4">
+        <titre>The Fall Guy </titre>
+        <realisateur>David Leitch</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <genre>Comedie</genre>
+        <duree>125</duree>
+        <pays>Us</pays>
+        <acteurs>
+            <acteur>Ryan Gosling</acteur>
+            <acteur>Emily Blunt</acteur>
+            <acteur>Aaron Taylor-Johnson</acteur>
+            <acteur>Winston Duke</acteur>
+        </acteurs>
+        <synopsis>
+           Colt Seavers, un cascadeur hollywoodien, travaille comme doublure cascade de la star de films d'action Tom Ryder. Il a pour petite-amie la cadreuse Jody Moreno. Réalisant une cascade, il est grièvement blessé lors d'une chute en hauteur. Touché au dos, il abandonne sa carrière et sa petite amie pour devenir voiturier dans un petit restaurant mexicain, El Cacatua del Capitan.</synopsis>
+        <projection>
+            <projection>
+                <salle>4</salle>
+                <date>2024-02-18</date>
+                <heure>10:00:00</heure>
+            </projection>
+            <projection>
+                <salle>1</salle>
+                <date>2024-02-18</date>
+                <heure>13:00:00</heure>
+            </projection>
+            <projection>
+                <salle>6</salle>
+                <date>2024-02-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+        </projection>
+    </film>
+    <film id="5">
+        <titre>The Fall Guy </titre>
+        <realisateur>David Leitch</realisateur>
+        <annee>2024</annee>
+        <genre>Action</genre>
+        <genre>Comedie</genre>
+        <duree>125</duree>
+        <pays>Us</pays>
+        <acteurs>
+            <acteur>Ryan Gosling</acteur>
+            <acteur>Emily Blunt</acteur>
+            <acteur>Aaron Taylor-Johnson</acteur>
+            <acteur>Winston Duke</acteur>
+        </acteurs>
+        <synopsis>
+           Colt Seavers, un cascadeur hollywoodien, travaille comme doublure cascade de la star de films d'action Tom Ryder. Il a pour petite-amie la cadreuse Jody Moreno. Réalisant une cascade, il est grièvement blessé lors d'une chute en hauteur. Touché au dos, il abandonne sa carrière et sa petite amie pour devenir voiturier dans un petit restaurant mexicain, El Cacatua del Capitan.</synopsis>
+        <projection>
+            <projection>
+                <salle>4</salle>
+                <date>2024-02-18</date>
+                <heure>10:00:00</heure>
+            </projection>
+            <projection>
+                <salle>1</salle>
+                <date>2024-02-18</date>
+                <heure>13:00:00</heure>
+            </projection>
+            <projection>
+                <salle>6</salle>
+                <date>2024-02-18</date>
+                <heure>14:00:00</heure>
+            </projection>
+        </projection>
+    </film>
+    
+</films>

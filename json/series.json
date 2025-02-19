@@ -1,0 +1,45 @@
+{
+    "series": [
+        {
+            "titre": " Breaking Bad",
+            "genre": "Policier, Drame, Thriller",
+            "saison": 5,
+            "date_sortie": 2008,
+            "acteurs": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Bob Odenkirk"],
+            "description": "Walter « Walt » White est professeur de chimie dans une école secondaire. Il vit à Albuquerque, au Nouveau-Mexique, avec son fils handicapé moteur et son épouse enceinte. Le lendemain de son cinquantième anniversaire, on lui diagnostique un cancer du poumon en phase terminale avec une espérance de vie estimée à deux ans. Tout s'effondre pour lui. Il décide alors de mettre en place un laboratoire et un trafic de méthamphétamine pour assurer un avenir financier confortable à sa famille après sa mort, en s'associant à Jesse Pinkman, un de ses anciens élèves devenu petit trafiquant."
+        },
+        {
+            "titre": " Game of Thrones",
+            "genre": "Fantasy, Drame, Aventure",
+            "saison": 8,
+            "date_sortie": 2011,
+            "acteurs": ["Emilia Clarke", "Kit Harington", "Peter Dinklage"],
+            "description": "Sur le continent de Westeros en proie au retour de l'Hiver, les grands Seigneurs et la fille du roi déchu se disputent le Trône de Fer."
+        },
+        {
+            "titre": " Sur écoute",
+            "genre": "Policier, Drame",
+            "saison": 5,
+            "date_sortie": 2002,
+            "acteurs": ["Dominic West", "Michael K. Williams", "John Doman"],
+            "description": "À Baltimore, le trafic de drogue est omniprésent. Une unité spéciale est mise en place pour démanteler le réseau de deux caïds de l'ouest de la ville."
+        },
+        {
+            "titre": "Twin Peaks",
+            "genre": "Policier, Drame, Thriller",
+            "saison": 3,
+            "date_sortie": 1990,
+            "acteurs": ["Kyle MacLachlan", "Michael Ontkean", "Mädchen Amick"],
+            "description": "Un meurtre a été commis à Twin Peaks, une petite bourgade en apparence tranquille. La jeune Laura Palmer est retrouvée morte nue au bord d'un lac."
+        },
+        {
+            "titre": "Kaamelott",
+            "genre": "Aventure, Comédie, Fantas",
+            "saison": 6,
+            "date_sortie": 1990,
+            "acteurs": ["Alexandre Astier", "Lionnel Astier", "Franck Pitiot", "Anne Girouard", "Joëlle Sevilla", "Jacques Chambon"],
+            "description": "Un meurtre a été commis à Twin Peaks, une petite bourgade en apparence tranquille. La jeune Laura Palmer est retrouvée morte nue au bord d'un lac."
+        }
+        
+    ]
+}
