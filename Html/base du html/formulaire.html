@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mon premier formulaire en html</title>
 </head>
-<hr>
     <h1>Formulaire inscription</h1>
     <h2>Votre compte configué en 2 minutes !</h2>
 
@@ -14,11 +13,11 @@
         <ul>
             <li>
                 <label for="name">Nom&nbsp;:</label>
-                <input type="text" id="name" name="user_name" value="entrer votre nom" size="30" required/>
+                <input type="text" id="name" name="user_name" required/>
             </li>
             <li>
                 <label for="firsname">Prénom&nbsp;:</label>
-                <input type="text" id="firsname" name="user_firsname" value="entrer votre prénom" size="30" required/>
+                <input type="text" id="firsname" name="user_firsname" required/>
             </li>
             <li>
                 <label for="firsname">Date de naissance&nbsp;:</label>
@@ -29,7 +28,7 @@
         <ul>
             <li>
                 <label for="email">Adresse email&nbsp;:</label>
-                <input type="email" id="email" value="entrer votre emeil" name="user_email" required/>
+                <input type="email" id="email" name="user_email" required/>
             </li>
             <li>
                 <label for="tel">Téléphone&nbsp;:</label>
@@ -41,10 +40,8 @@
                 <input type="checkbox" id="scales" name="scales" checked />
                 <label for="scales">J'accepte les <a href="https://policies.google.com/terms?hl=fr">condition utilisation</a></label>
             </li>
-            <input type="button" value="S'inscrire" />
-        
         </ul>
-
+        <input type="button" value="S'inscrire" />
     </form>
 
 </body>
